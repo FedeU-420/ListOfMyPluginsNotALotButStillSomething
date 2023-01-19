@@ -42,10 +42,10 @@ const config = {
     },
     changelog: [
         {
-            title: "Filda Judas",
-            type: "FJ",
+            title: "Opravý bugy",
+            type: "Opraveno",
             items: [
-                "Filda Judas si prdl."
+                "Opravil všechny funkce pluginu!"
             ]
         }
     ],
