@@ -1,11 +1,8 @@
 /**
  * @name HideDisabledEmojis
  * @description Hides disabled emojis from the emoji picker.
- * @version 1
+ * @version 1.0.0
  * @author FedeU
- * @authorId 249746236008169473
- * @website https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/HideDisabledEmojis
- * @source https://github.com/rauenzi/BetterDiscordAddons/blob/master/Plugins/HideDisabledEmojis/HideDisabledEmojis.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
